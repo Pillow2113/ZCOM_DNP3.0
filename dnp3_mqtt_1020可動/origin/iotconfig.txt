@@ -1,0 +1,27 @@
+device:SmartMeter
+target:https://192.168.178.1:3000
+items:outstation-LC_phase_a
+items:outstation-LC_phase_b
+items:outstation-LC_phase_c
+items:outstation-LC_phase_n
+items:outstation-LV_phase_ab
+items:outstation-LV_phase_bc
+items:outstation-LV_phase_ac
+items:outstation-REP_kw
+items:outstation-RAP_kvar
+items:outstation-PF_rms
+items:outstation-Freq_Hz
+items:outstation-Wha_wh
+items:outstation-IRradiance
+items:outstation-Wind_speed
+items:outstation-PF_setting
+items:outstation-P_setting
+items:outstation-Q_setting
+items:outstation-VPset_setting
+items:outstation-Total_kwh
+comport:2
+baudrate:9600
+stopbit:2
+databit:8
+parity:None Partiy_
+end:
