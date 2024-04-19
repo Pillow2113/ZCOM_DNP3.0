@@ -1,0 +1,17 @@
+device:'SmartMeter'
+slaveid:'3'
+comport:'/dev/ttyUSB1'
+baudrate:'9600'
+stopbit:'1'
+databit:'8'
+parity:'None'
+end:
+
+device:'PV3000'
+slaveid:'3'
+comport:'/dev/ttyUSB0'
+baudrate:'9600'
+stopbit:'1'
+databit:'8'
+parity:'None'
+end:
